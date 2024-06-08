@@ -1,0 +1,15 @@
+﻿{
+    "main-setting": "Cài đặt chính",
+    "render-setting": "Hiển thị thanh ma lực?",
+    "render-setting-des": "Nếu đặt là đúng, trò chơi sẽ hiển thị thanh ma lực.",
+
+    "position-settings": "Cài đặt vị trí",
+    "bar-x-position": "Độ lệch trục X",
+    "bar-x-position-des": "Đặt độ lệch trục 'X'.\nNếu giá trị quá lớn, thanh có thể hiển thị không chính xác.",
+    "bar-y-position": "Độ lệch trục Y",
+    "bar-y-position-des": "Đặt độ lệch trục 'Y'.\nNếu giá trị quá lớn, thanh có thể hiển thị không chính xác",
+
+    "additional-settings": "Cài đặt bổ sung",
+    "size-multiplier": "Hệ số kích thước thanh",
+    "size-multiplier-des": "Đặt hệ số kích thước thanh, được áp dụng khi bạn vượt quá mức ma lực tối đa."
+}
